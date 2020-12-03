@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 120034128}
   - component: {fileID: 120034127}
   m_Layer: 0
-  m_Name: Shards
+  m_Name: Dust
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1535,7 +1535,7 @@ GameObject:
   - component: {fileID: 2147461249}
   - component: {fileID: 2147461252}
   m_Layer: 0
-  m_Name: Fragments
+  m_Name: Asteroids
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
